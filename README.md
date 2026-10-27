@@ -1,11 +1,11 @@
-# Streak Infinity
+# Streak Helper
 
 Публичный информационный сайт приложения, политика конфиденциальности и поддержка.
 
-- Сайт: https://ilya-88.github.io/streak-infinity/
-- Политика конфиденциальности: https://ilya-88.github.io/streak-infinity/privacy.html
-- Поддержка: https://ilya-88.github.io/streak-infinity/support.html
-- Обращения: https://github.com/ilya-88/streak-infinity/issues
+- Сайт: https://ilya-88.github.io/streak-helper/
+- Политика конфиденциальности: https://ilya-88.github.io/streak-helper/privacy.html
+- Поддержка: https://ilya-88.github.io/streak-helper/support.html
+- Обращения: https://github.com/ilya-88/streak-helper/issues
 
 Сайт состоит из статических HTML и CSS. Аналитика, рекламные скрипты и формы сбора данных отсутствуют. Публикация через GitHub Pages: ветка `main`, каталог `/ (root)`.
 
